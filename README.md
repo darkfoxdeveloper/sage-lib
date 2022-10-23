@@ -5,3 +5,6 @@
 Sage is a WordPress starter theme with a modern development workflow.
 
 Sage Repo: [https://github.com/roots/sage](https://github.com/roots/sage)
+
+## Upgraded for Compatibility with PHP 8
+This project is a fork created for add compatibility with PHP 8 in sage 9.x based themes.
